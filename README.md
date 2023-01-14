@@ -2,9 +2,9 @@
 <p align="center"><img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3500&center=true&vCenter=true&multiline=true&width=800&height=100&lines=%E2%80%9CDon't+Panic.%E2%80%9D+..."></p>
 <h3 align="center">A passionate Embedded Systems Engineer | MBD </h3>
 
-- 🌱 I’m currently learning **  AVR Development || AMR Development**
+- 🌱 I’m currently learning **  AVR Development || ARM Development || PIC Development**
 
-- 💬 Ask me about **C, C++, Python, Adruino **
+- 💬 Ask me about **C, C++, Python, Adruino,MATLAB **
 
 - 📫 How to reach me **georgeemad31@gmail.com**
 
@@ -12,7 +12,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/george-emad-99b18b196?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B4rqZc0xPQ4WbRVXKNADn0Q%3D%3D" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="khalid-sharaf-el-din" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/george-emad-99b18b196?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B4rqZc0xPQ4WbRVXKNADn0Q%3D%3D" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="George-Emad31" height="30" width="40" /></a>
 <a href="https://www.facebook.com/george.emad.735" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="khalid.gamal.7967" height="30" width="40" /></a>
 </p>
 
