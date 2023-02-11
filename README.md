@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **  AVR Development || ARM Development || PIC Development**
 
-- 💬 Ask me about **C, C++, Python, Adruino,MATLAB **
+- 💬 Ask me about **C programming language, Embedded C,RTOS,AUTOSAR,TIVA-C,AVR,ARM Adruino,MATLAB **
 
 - 📫 How to reach me **georgeemad31@gmail.com**
 
