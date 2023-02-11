@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm George Emad Shoukry  </h1>
 <p align="center"><img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3500&center=true&vCenter=true&multiline=true&width=800&height=100&lines=%E2%80%9CDon't+Panic.%E2%80%9D+..."></p>
-<h3 align="center">A passionate Embedded Systems Engineer | MBD </h3>
+
+<h3 align="center">An Aerospace Engineering Graduate who is passionate about the Embedded Systems throughout the Automotive industry|| MBD.</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mennah-ae&label=Profile%20views&color=0e75b6&style=flat" alt="mennah-ae" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=George-Emad31" alt="George-Emad31" /></a> </p>
 
 - 🌱 I’m currently learning **  AVR Development || ARM Development || PIC Development**
 
