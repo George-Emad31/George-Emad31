@@ -30,7 +30,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=C programming language, Embedded C,RTOS,AUTOSAR,TIVA-C,AVR,ARM&show_icons=true&locale=en&layout=compact" alt="George-Emad31" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mennah-ae&show_icons=true&locale=en" alt="George-Emad31" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=C programming language, Embedded C,RTOS,AUTOSAR,TIVA-C,AVR,ARM&show_icons=true&locale=en" alt="George-Emad31" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mennah-ae&" alt="George-Emad31" /></p>
 
