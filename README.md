@@ -26,13 +26,9 @@
 
 <p align="center"><img src ="https://readme-typing-svg.herokuapp.com?size=25&duration=3500&center=true&vCenter=true&multiline=true&width=850&height=100&lines=+I+love+connecting+with+different+people+;so+if+you+want+to+say+hi%2C+I'll+be+happy+to+meet+you+more!+%3A"></p>
 
-
-
-
-
 <p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mennah-ae&show_icons=true&locale=en&layout=compact" alt="George-Emad31" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=C programming language, Embedded C,RTOS,AUTOSAR,TIVA-C,AVR,ARM&show_icons=true&locale=en&layout=compact" alt="George-Emad31" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mennah-ae&show_icons=true&locale=en" alt="George-Emad31" /></p>
 
